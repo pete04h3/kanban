@@ -23,6 +23,12 @@ nav {
   background: hotpink;
 }
 
+nav a {
+  display: block;
+  margin: 2rem;
+  text-align: center;
+}
+
 main {
   background: lightblue;
   display: inline-grid;
